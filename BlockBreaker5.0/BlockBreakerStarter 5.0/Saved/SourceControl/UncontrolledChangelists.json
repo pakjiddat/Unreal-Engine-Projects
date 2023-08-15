@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Maps/TutorialMap.umap",
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Blueprints/BP_Player.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Blueprints/GM_Tutorial.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Blueprints/BP_BaseGun.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Blueprints/BP_Rifle.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Blueprints/BP_Target.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BlockBreaker5.0/BlockBreakerStarter 5.0/Content/BlockBreaker/Blueprints/BP_ResetButton.uasset"
+			]
+		}
+	]
+}

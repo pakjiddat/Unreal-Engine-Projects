@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Materials/M_Banana.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Materials/MI_Banana.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Materials/MI_Banana_Green.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Maps/TutorialMap.umap",
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Materials/MI_Banana_Purple.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Materials/M_Cube.uasset",
+				"C:/Users/DCC/Documents/Unreal Projects/BananaCollectorMaterial/Content/BananaCollector/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
